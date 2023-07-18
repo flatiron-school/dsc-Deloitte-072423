@@ -1,9 +1,8 @@
 # dsc-Deloitte-072423
 Deloitte AI Academy Intensive and Apprenticeship course materials for 07/24/23 cohort. It was made with ❤️ by Flatiron School
 
-# dsc-Deloitte-072423
 
-# Written Instructions to Connect to this Repository:
+## Written Instructions to Connect to this Repository:
 We will be going through these instuctions several times during the first week or so of class - no rush!
 
 1. FORK this repository, creating a copy on your own GitHub account (creates a personal duplicate only online)
