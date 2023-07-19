@@ -10,12 +10,12 @@ We will be going through these instuctions several times during the first week o
 2. Then clone your fork down to your local computer (this will copy your fork onto to your local machine)
 
 ```
-git clone https://github.com/[yourusername]/DS-Deloitte-02063.git
+git clone https://github.com/[yourusername]/dsc-Deloitte-072423.git
 ```
 
 3. Add the ```/flatiron-school/``` version as the upstream (to pull future changes JP makes into your own copy)  
 ```
- git remote add upstream https://github.com/flatiron-school/DS-Deloitte-0206.git
+ git remote add upstream https://github.com/flatiron-school/dsc-Deloitte-072423.git
 ```
 
 4. You can make changes to the notebooks now! Remember to push your changes to your forked version of the repo (to save your local changes online):
@@ -33,3 +33,6 @@ git fetch upstream
 6. Merge new changes onto your local repo
 ```
 git merge upstream/main -m "meaningful message about what you're updating"
+```
+
+For example, you might write a message like "incorporating newest changes/updates from upstream".
