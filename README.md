@@ -1,13 +1,13 @@
-# dsc-Deloitte-072423
+# dsc-Deloitte-072423 📉📊📈
 Deloitte AI Academy Intensive and Apprenticeship course materials for 07/24/23 cohort. It was made with ❤️ by Flatiron School
 
 
 ## Written Instructions to Connect to this Repository:
 We will be going through these instuctions several times during the first week or so of class - no rush!
 
-1. FORK this repository, creating a copy on your own GitHub account (creates a personal duplicate only online)
+1. FORK this repository, creating a copy of the repository (or 'repo' aka folder) on your own GitHub account (creates a personal duplicate only online)
 
-2. Then clone your fork down to your local computer (this will clone or copy your fork down to your local machine)
+2. Then clone your fork down to your local computer (this will copy your fork onto to your local machine)
 
 ```
 git clone https://github.com/[yourusername]/DS-Deloitte-02063.git
