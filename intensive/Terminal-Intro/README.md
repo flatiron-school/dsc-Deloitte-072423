@@ -4,7 +4,7 @@ The main goal here is just to introduce enough UNIX / bash commands so that stud
 
 ## Materials:
 
-- [[Google Slides] The Terminal: Fear Not the Command Line](https://docs.google.com/presentation/d/17k-zjy3D2ES0wV8VQE_88Eeqa96ZKCbIW7XDf96KcDc/edit?usp=sharing)
+- [[Google Slides] The Terminal: Fear Not the Command Line](https://docs.google.com/presentation/d/17DQzLnKfVWupWE0TVAe3ae3La0Y8jIdCX5oiSX1Tm3U/edit#slide=id.g114c23f81a1_0_57)
 
 ## Before Lecture Prep
 
