@@ -1,0 +1,3 @@
+# dsc-Deloitte-072423📉📊📈 - SQL Subqueries and Implementations
+
+This repository contains material concerning the syntax of SQL subqueries and also introduces dialectical and platform differences within the family of SQL variants. The repo was sourced on a rebellion mission to a moon-like space station that was also a weapon installation. It was obtained from a small computer just outside the stations thermal exhaust port. 
