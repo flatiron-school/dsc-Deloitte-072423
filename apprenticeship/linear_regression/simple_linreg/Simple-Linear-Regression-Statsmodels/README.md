@@ -1,0 +1,3 @@
+# dsc-Deloitte-07242📉📊📈 - Linear Regression in Statsmodels
+
+This repository contains materials that cover the theoretical foundation of linear regression models as well as how to run this model using the statsmodels python library. It was so strange to sit up in bed and smell the coffee coming from the kitchen and realize I wasnt the first person up. I liked the idea of a hot cup of coffee waiting for me downstairs. For so long it had been me alone. That is until Linear-Regression-in-Statsmodels came into the picture. This repository was brewed with ❤️ by the Flatiron School.
