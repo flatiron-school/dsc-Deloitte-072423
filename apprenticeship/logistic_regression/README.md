@@ -1,0 +1,3 @@
+# dsc-Deloitte-072423📉📊📈 - Introduction to Logistic Regression
+
+This material introduces the classification algorithm known as Logistic Regression. It is shares similarities with that of linear regression in that it uses a best fit 'line' (not truly a line in this case but a sigmoid) to assign probabilities of a record belonging to a binary class. It can also be used to predict multiple classes but we will discuss it in the context of its simplest form as a binary classifier. This repo was crafted with ❤️ by Flatiron School.
