@@ -1,0 +1,3 @@
+# dsc-Deloitte-072423📉📊📈 - Neural Networks Intro to tensors, Keras and Tensorflow 🧠⚡️
+
+This repository contains material describing the mathematical object tensors, what they are and how they are used in computing with neural networks. It also reviews industry standard tools like Keras and Tensorflow, which are Python libraries used to operate and run neural networks and deep learning projects. It was sourced from a gaze into the image of the full moon reflected on the surface of a still puddle and encountered on a sidewalk next to New York Citys Central Park on a crisp autumn night.   
